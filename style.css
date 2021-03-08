@@ -1,0 +1,28 @@
+body {
+    background-color: #ECEBEA;
+}
+.header{
+    background-color: white;
+    text-align: center;
+}
+.feed {
+    background-color: white;
+    width: 400px;
+    margin: 0 auto;
+
+}
+.feed div{    
+    border-bottom: solid #ECEBEA 25px;
+}
+img{
+    max-width: 100%;
+    padding-bottom: 5px;
+}
+h2,span{
+    float: left;
+    padding: 0 10px 0 10px;
+}
+span{
+    float: right;
+    padding-top: 25px;
+}
